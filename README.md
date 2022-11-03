@@ -18,3 +18,7 @@
 - Type the task on the yellow bar and click the "add" button to add the task on the "All" and "Active" tab.
 - Click the circle button to move the task on the "Completed" tab.
 - Click the "Delete" button to remove the task from the app.
+
+## Live demo
+### You can view the live demo here:
+https://todoappreact22.herokuapp.com
